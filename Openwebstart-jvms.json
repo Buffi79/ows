@@ -5,39 +5,38 @@
             "version":"1.8.0_265",
             "vendor":"Zulu Community Edition",
             "os":"MAC64",
-            "href":"https://cdn.azul.com/zulu/bin/zulu8.48.0.53-ca-fx-jdk8.0.265-macosx_x64.zip"
+            "href":"https://git.adcubum.com/users/rbuffon/repos/openwebstart/raw/java/zulu8.48.0.53-ca-fx-jdk8.0.265-macosx_x64.zip"
         },
         {
             "version":"1.8.0_265",
             "vendor":"Zulu Community Edition",
             "os":"LINUX64",
-            "href":"https://cdn.azul.com/zulu/bin/zulu8.48.0.53-ca-fx-jdk8.0.265-linux_x64.tar.gz"
+            "href":"https://git.adcubum.com/users/rbuffon/repos/openwebstart/raw/java/zulu8.48.0.53-ca-fx-jdk8.0.265-linux_x64.tar.gz"
         },
         {
             "version":"1.8.0_265",
             "vendor":"Zulu Community Edition",
             "os":"WIN64",
-            "href":"https://cdn.azul.com/zulu/bin/zulu8.48.0.53-ca-fx-jdk8.0.265-win_x64.zip"
+            "href":"https://git.adcubum.com/users/rbuffon/repos/openwebstart/raw/java/zulu8.48.0.53-ca-fx-jdk8.0.265-win_x64.zip"
 			
         },
         {
             "version":"11.0.8",
             "vendor":"Zulu Community Edition",
             "os":"MAC64",
-            "href":"https://cdn.azul.com/zulu/bin/zulu11.41.23-ca-fx-jdk11.0.8-macosx_x64.zip"
+            "href":"https://git.adcubum.com/users/rbuffon/repos/openwebstart/raw/java/zulu11.41.23-ca-fx-jdk11.0.8-macosx_x64.zip"
         },
         {
             "version":"11.0.8",
             "vendor":"Zulu Community Edition",
             "os":"WIN64",
-            "href":"https://cdn.azul.com/zulu/bin/zulu11.41.23-ca-fx-jdk11.0.8-win_x64.zip"
+            "href":"https://git.adcubum.com/users/rbuffon/repos/openwebstart/raw/java/zulu11.41.23-ca-fx-jdk11.0.8-win_x64.zip"
         },
         {
             "version":"11.0.8",
             "vendor":"Zulu Community Edition",
             "os":"LINUX64",
-            "href":"https://cdn.azul.com/zulu/bin/zulu11.41.23-ca-fx-jdk11.0.8-linux_x64.tar.gz"
+            "href":"https://git.adcubum.com/users/rbuffon/repos/openwebstart/raw/java/zulu11.41.23-ca-fx-jdk11.0.8-linux_x64.tar.gz"
         }
     ]
 }
-
